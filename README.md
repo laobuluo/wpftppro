@@ -102,10 +102,10 @@ WPFTP PRO 可将 WordPress 媒体库文件自动上传至 FTP 空间存储，支
 
 | 类目             | 信息                                                         |
 | ---------------- | ------------------------------------------------------------ |
-| 插件更新地址     | https://www.lezaiyun.com/792.html                            |
+| 插件更新地址     | https://www.lezaiyun.com/826.html                            |
 | 团队成员         | [老蒋](https://www.laojiang.me/)、老赵、[CNJOEL](https://www.rakvps.com/)、木村 |
 | 支持网站         | 乐在云、主机评价网、老蒋玩主机                               |
 | 建站资源推荐     | [便宜VPS推荐](https://www.zhujipingjia.com/pianyivps.html)、[美国VPS推荐](https://www.zhujipingjia.com/uscn2gia.html)、[外贸建站主机](https://www.zhujipingjia.com/wordpress-hosting.html)、[SSL证书推荐](https://www.zhujipingjia.com/two-ssls.html)、[WordPress主机推荐](https://www.zhujipingjia.com/wpblog-host.html) |
-| 提交WP官网（是） | https://cn.wordpress.org/plugins/wpwatermark/                |
+| 提交WP官网（否） |                                                              |
 
 ![](wechat.png)
