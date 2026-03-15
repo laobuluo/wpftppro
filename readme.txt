@@ -1,7 +1,7 @@
 === WPFTP PRO ===
 
 Contributors: laobuluo
-Donate link: https://www.lezaiyun.com/donate/
+Donate link: https://www.laojiang.me/donate/
 Tags:WordPress对象存储,WordPress加速,WordPress FTP空间, FTP空间存储,自建云存储
 Requires at least: 4.5.0
 Tested up to: 6.8.1
@@ -26,11 +26,11 @@ WordPress FTP升级版（简称:WPFTP PRO），在原来我们WPFTP插件基础�
 8. 支持虚拟主机FTP空间
 9. 支持云服务器自建FTP空间（新支持）
 
-插件更多详细介绍和安装：[https://www.lezaiyun.com/826.html](https://www.lezaiyun.com/826.html)
+插件更多详细介绍和安装：[https://www.laojiang.me/5925.html](https://www.laojiang.me/5925.html)
 
 ## 网站支持
 
-* [乐在云工作室](https://www.lezaiyun.com/ "乐在云工作室")
+* [乐在云](https://www.lezaiyun.com/ "乐在云")
 
 * [主机评价网](https://www.zhujipingjia.com/ "主机评价网")
 

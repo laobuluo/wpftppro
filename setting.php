@@ -125,11 +125,11 @@ if (isset($_POST['submit']) && check_admin_referer()) {
             <span class="wbs-free">Pro V5.0</span>
         </div>
         <div class="laobuluo-wbs-btn">
-            <a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/?utm_source=wpftppro-setting&utm_media=link&utm_campaign=header" target="_blank">
-                <i class="layui-icon layui-icon-home"></i> 乐在云工作室
+            <a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/5925.html" target="_blank">
+                <i class="layui-icon layui-icon-home"></i> 插件官网
             </a>
-            <a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/826.html?utm_source=wpftppro-setting&utm_media=link&utm_campaign=header" target="_blank">
-                <i class="layui-icon layui-icon-release"></i> 插件教程
+            <a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/contact/" target="_blank">
+                <i class="layui-icon layui-icon-release"></i> 技术支持
             </a>
         </div>
     </div>
@@ -280,8 +280,10 @@ if (isset($_POST['submit']) && check_admin_referer()) {
                 </div>
                 <div class="laobuluo-links">
                     
-                    <a href="https://www.lezaiyun.com/?utm_source=lbs-setting&utm_media=link&utm_campaign=footer" target="_blank">乐在云工作室</a>
-                    <a href="https://www.lezaiyun.com/826.html?utm_source=lbs-setting&utm_media=link&utm_campaign=footer" target="_blank">使用说明</a>
+                   <a href="https://www.laojiang.me/"  target="_blank">老蒋玩开发</a>
+                    <a href="https://www.zhujipingjia.com/pianyivps.html" target="_blank">便宜VPS推荐</a>
+                    <a href="https://www.zhujipingjia.com/hkcn2.html" target="_blank">香港VPS推荐</a>
+                    <a href="hhttps://www.zhujipingjia.com/uscn2gia.html" target="_blank">美国VPS推荐</a>
                     
                 </div>
             </div>

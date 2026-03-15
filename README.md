@@ -96,15 +96,15 @@ WPFTP PRO 可将 WordPress 媒体库文件自动上传至 FTP 空间存储，支
 
 ## 插件团队和技术支持
 
-[乐在云](https://www.lezaiyun.com/)（老蒋和他的伙伴们），本着资源共享原则，在运营网站过程中用到的或者是有需要用到的主题、插件资源，有选择的免费分享给广大的网友站长，希望能够帮助到你建站过程中提高效率。
+[老蒋](https://www.laojiang.me/)（老蒋和他的伙伴们），本着资源共享原则，在运营网站过程中用到的或者是有需要用到的主题、插件资源，有选择的免费分享给广大的网友站长，希望能够帮助到你建站过程中提高效率。
 
 感谢团队成员，以及网友提出的优化工具的建议，才有后续产品的不断迭代适合且满足用户需要。不能确保100%的符合兼容网站，我们也仅能做到在工作之余不断的接近和满足你的需要。
 
 | 类目             | 信息                                                         |
 | ---------------- | ------------------------------------------------------------ |
-| 插件更新地址     | https://www.lezaiyun.com/826.html                            |
+| 插件更新地址     | https://www.laojiang.me/5925.html                            |
 | 团队成员         | [老蒋](https://www.laojiang.me/)、老赵、[CNJOEL](https://www.rakvps.com/)、木村 |
-| 支持网站         | 乐在云、主机评价网、老蒋玩主机                               |
+| 支持网站         | [乐在云](https://www.lezaiyun.com/)、主机评价网              |
 | 建站资源推荐     | [便宜VPS推荐](https://www.zhujipingjia.com/pianyivps.html)、[美国VPS推荐](https://www.zhujipingjia.com/uscn2gia.html)、[外贸建站主机](https://www.zhujipingjia.com/wordpress-hosting.html)、[SSL证书推荐](https://www.zhujipingjia.com/two-ssls.html)、[WordPress主机推荐](https://www.zhujipingjia.com/wpblog-host.html) |
 | 提交WP官网（否） |                                                              |
 

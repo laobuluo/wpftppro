@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WPFTP PRO
- * Plugin URI: https://www.lezaiyun.com/826.html
+ * Plugin URI: https://www.laojiang.me/5925.html
  * Description: 在原有WPFTP基础上升级至PRO版本，考虑到兼容已有用户问题，不变动原来的WPFTP。之前版本依旧可以使用。
  * Version: 5.0
  * Author: 老蒋和他的伙伴们
- * Author URI: https://www.lezaiyun.com
+ * Author URI: https://www.laojiang.me
  */
 
 if (!defined('ABSPATH')) die();
